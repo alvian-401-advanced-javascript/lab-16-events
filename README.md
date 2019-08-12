@@ -5,7 +5,7 @@
 ### Author: Alvian Joseph
 
 ### Links and Resources
-* [repo]()
+* [repo](https://github.com/alvian-401-advanced-javascript/lab-16-events)
 
 
 #### Documentation
